@@ -24,4 +24,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mhkgpta44/DSA/tree/master/0011-container-with-most-water) |
+## Math
+|  |
+| ------- |
+| [2652-sum-multiples](https://github.com/mhkgpta44/DSA/tree/master/2652-sum-multiples) |
 <!---LeetCode Topics End-->
