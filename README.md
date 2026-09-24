@@ -13,6 +13,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/mhkgpta44/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/mhkgpta44/DSA/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/mhkgpta44/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/mhkgpta44/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/mhkgpta44/DSA/tree/master/0268-missing-number) |
 | [2652-sum-multiples](https://github.com/mhkgpta44/DSA/tree/master/2652-sum-multiples) |
+| [2965-find-missing-and-repeated-values](https://github.com/mhkgpta44/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Sorting
 |  |
 | ------- |
@@ -59,6 +61,7 @@
 | [0268-missing-number](https://github.com/mhkgpta44/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mhkgpta44/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/mhkgpta44/DSA/tree/master/0645-set-mismatch) |
+| [2965-find-missing-and-repeated-values](https://github.com/mhkgpta44/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -72,4 +75,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/mhkgpta44/DSA/tree/master/0075-sort-colors) |
+## Matrix
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/mhkgpta44/DSA/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
