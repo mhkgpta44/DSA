@@ -6,6 +6,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/mhkgpta44/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/mhkgpta44/DSA/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/mhkgpta44/DSA/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mhkgpta44/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mhkgpta44/DSA/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/mhkgpta44/DSA/tree/master/0075-sort-colors) |
@@ -20,6 +21,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/mhkgpta44/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/mhkgpta44/DSA/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/mhkgpta44/DSA/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mhkgpta44/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mhkgpta44/DSA/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/mhkgpta44/DSA/tree/master/0075-sort-colors) |
@@ -53,6 +55,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/mhkgpta44/DSA/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/mhkgpta44/DSA/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/mhkgpta44/DSA/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/mhkgpta44/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mhkgpta44/DSA/tree/master/0349-intersection-of-two-arrays) |
