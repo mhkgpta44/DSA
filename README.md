@@ -31,6 +31,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mhkgpta44/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/mhkgpta44/DSA/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/mhkgpta44/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0680-valid-palindrome-ii](https://github.com/mhkgpta44/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/mhkgpta44/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -43,10 +44,12 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/mhkgpta44/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/mhkgpta44/DSA/tree/master/0344-reverse-string) |
+| [0680-valid-palindrome-ii](https://github.com/mhkgpta44/DSA/tree/master/0680-valid-palindrome-ii) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mhkgpta44/DSA/tree/master/0011-container-with-most-water) |
+| [0680-valid-palindrome-ii](https://github.com/mhkgpta44/DSA/tree/master/0680-valid-palindrome-ii) |
 ## Math
 |  |
 | ------- |
