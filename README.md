@@ -43,6 +43,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/mhkgpta44/DSA/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/mhkgpta44/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/mhkgpta44/DSA/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/mhkgpta44/DSA/tree/master/0680-valid-palindrome-ii) |
@@ -109,4 +110,12 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/mhkgpta44/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/mhkgpta44/DSA/tree/master/0203-remove-linked-list-elements) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/mhkgpta44/DSA/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/mhkgpta44/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
