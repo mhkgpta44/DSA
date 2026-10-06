@@ -31,6 +31,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/mhkgpta44/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/mhkgpta44/DSA/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mhkgpta44/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/mhkgpta44/DSA/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/mhkgpta44/DSA/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/mhkgpta44/DSA/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/mhkgpta44/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -58,6 +59,7 @@
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/mhkgpta44/DSA/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/mhkgpta44/DSA/tree/master/0268-missing-number) |
 | [2652-sum-multiples](https://github.com/mhkgpta44/DSA/tree/master/2652-sum-multiples) |
 | [2965-find-missing-and-repeated-values](https://github.com/mhkgpta44/DSA/tree/master/2965-find-missing-and-repeated-values) |
@@ -76,6 +78,7 @@
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/mhkgpta44/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/mhkgpta44/DSA/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/mhkgpta44/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mhkgpta44/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/mhkgpta44/DSA/tree/master/0645-set-mismatch) |
@@ -111,6 +114,7 @@
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/mhkgpta44/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/mhkgpta44/DSA/tree/master/0202-happy-number) |
 ## Recursion
 |  |
 | ------- |
